@@ -1,1 +1,3 @@
 Example and practice for git and github
+2nd example
+3rd example
